@@ -44,6 +44,8 @@
 
 </td><td valign="top" width="33%">
 
+
+
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -82,7 +84,7 @@
 **<div align="center">TSans#0001</div>**  
   
 
-<div align="center">[Discord Server](https://discord.gg/AdHGHrDV)</div>
+**<div align="center">[Discord Server](https://discord.gg/AdHGHrDV)</div>**  
   
 
 <br/>  
@@ -111,4 +113,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
