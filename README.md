@@ -17,6 +17,20 @@
 
 <br/>  
 
+## Current Projects ##
+
+- **Better Prefix**: Best prefix manager out there!. [spigotmc.org](https://www.spigotmc.org/resources/betterprefix.18096/)
+  
+- **UltimateChest**: Infinite storage with chunk collection, upgrades, GUI, auto-sell and more.
+
+- **StreamerSplitter**: Allows subdomain registration and donation hook to store players which donate from a streamers subdomain.
+  
+- **RoleplayVolleyball**: Volleyball in minecraft, exactly how you might think.
+
+- **RoleplayCore**: Core plugin for roleplay server, medics, police, down system and more.
+  
+- **SkyblockCore**: Skyblock custom core plugin.
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -29,20 +43,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-## Current Projects ##
-
-- Better Prefix: Best prefix manager out there!. [spigotmc.org](https://www.spigotmc.org/resources/betterprefix.18096/)
-  
-- UltimateChest: Infinite storage with chunk collection, upgrades, GUI, auto-sell and more.
-
-- StreamerSplitter: Allows subdomain registration and donation hook to store players which donate from a streamers subdomain.
-  
-- RoleplayVolleyball: Volleyball in minecraft, exactly how you might think.
-
-- RoleplayCore: Core plugin for roleplay server, medics, police, down system and more.
-  
-- SkyblockCore: Skyblock custom core plugin.
 
 ### Backend  
 <div align="center">  
