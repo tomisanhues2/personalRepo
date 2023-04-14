@@ -15,11 +15,26 @@
 - 🎓 I am a **Systems Engineering Graduate**  
   
 
-<br/>  
+<br/> 
 
-## Current Projects ##
+## Showcase Projects ##
+
+
 
 - **Better Prefix**: Best prefix manager out there!. [spigotmc.org](https://www.spigotmc.org/resources/betterprefix.18096/)
+
+- **UltraStorage-Premium**: The best infinite storage + chunk collection system out there. 100% customizability, upgrades, auto-sell and more. [builtbybit.com](https://builtbybit.com/resources/ultrastorage-ultimate-storage-manager.27642/)
+
+- **UltraStorage-Free**: The trial version of UltraStorage-Premium. See all that it has to offer before you purchase! [spigotmc.org](https://www.spigotmc.org/resources/ultrastorage-free-ultimited-storage-chunk-collector-autosell-holograms-and-more%E2%9C%A8.108815/)
+
+- **UltraStorage-Docs**: WIP docs for UltraStorage with detailed information, constantly updated! [gitbook.com](https://tsans-plugins.gitbook.io/ultrastorage-wiki/)
+
+- **PrivateMines-Revamped**: Quick on-the-fly private mine plugin, 100% tested 1.19.3. no bugs, made under 6 hours. Will soon be converted into premium-quality resource with same high standards as UltraStorage. [github.com](https://github.com/tomisanhues2/PrivateMines-Revamped)
+
+
+## Old Projects ##
+
+
   
 - **UltimateChest**: Infinite storage with chunk collection, upgrades, GUI, auto-sell and more.
 
