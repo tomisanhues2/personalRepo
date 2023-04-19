@@ -23,7 +23,7 @@
 
 - **Better Prefix**: Best prefix manager out there!. 37.000+ Downloads. [spigotmc.org](https://www.spigotmc.org/resources/betterprefix.18096/)
 
-- **UltraStorage-Premium**: The best infinite storage + chunk collection system out there. 100% customizability, upgrades, auto-sell and more. [builtbybit.com](https://builtbybit.com/resources/ultrastorage-ultimate-storage-manager.27642/)
+- **UltraStorage-Premium**: The best infinite storage + chunk collection system out there. 100% customizability, upgrades, auto-sell and more. [builtbybit.com](https://builtbybit.com/resources/ultrastorage-ultimate-storage-manager.27642/) [spigotmc.org](https://www.spigotmc.org/resources/ultrastorage-%E2%9C%A8-infinite-storage-chunk-collector-autosell-holograms-and-more%E2%9C%A8.108836/)
 
 - **UltraStorage-Free**: The trial version of UltraStorage-Premium. See all that it has to offer before you purchase! [spigotmc.org](https://www.spigotmc.org/resources/ultrastorage-free-ultimited-storage-chunk-collector-autosell-holograms-and-more%E2%9C%A8.108815/)
 
